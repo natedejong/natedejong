@@ -6,9 +6,12 @@
 # Transportation
 ## All modes
 - [Bureau of Transportation Statistics](https://www.bts.dot.gov/browse-statistical-products-and-data)
+    - [Monthly transportation stats summaries](https://data.bts.gov/stories/s/m9eb-yevh)
 ## Ocean
 - [NOAA U.S. AIS vessel tracking data archives](https://coast.noaa.gov/digitalcoast/data/vesseltraffic.html)
+    - 
 
 # Other
 ## Weather
-- [WeatherBench: A Benchmark Data Set for Data-Driven Weather Forecasting](https://mediatum.ub.tum.de/1524895). [GitHub link](https://github.com/pangeo-data/WeatherBench)
+- [WeatherBench: A Benchmark Data Set for Data-Driven Weather Forecasting](https://mediatum.ub.tum.de/1524895)
+    - [GitHub link](https://github.com/pangeo-data/WeatherBench)
