@@ -9,7 +9,6 @@
     - [Monthly transportation stats summaries](https://data.bts.gov/stories/s/m9eb-yevh)
 ## Ocean
 - [NOAA U.S. AIS vessel tracking data archives](https://coast.noaa.gov/digitalcoast/data/vesseltraffic.html)
-    - 
 
 # Other
 ## Weather
